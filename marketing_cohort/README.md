@@ -1,5 +1,5 @@
 # Анализ бизнес-показателей приложения
-[ipynb](marketing_cohort/Marketing-unit_economy-cohort.ipynb)
+[ipynb](https://github.com/at71a/portfolio/blob/main/marketing_cohort/Marketing-unit_economy-cohort.ipynb)
 ## Описание проекта
 Приложение, несмотря на огромные вложения в рекламу, последние несколько месяцев терпит убытки. Задача — разобраться в причинах и помочь компании выйти в плюс.
 ## Навыки и инструменты
