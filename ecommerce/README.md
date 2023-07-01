@@ -1,4 +1,5 @@
 # Анализ товарного ассортимента в e-commerce
+[ipynb](https://github.com/at71a/portfolio/blob/main/ecommerce/ecommerce_project.ipynb)
 ## Описание проекта
 Определить основной и дополнительный ассортимент магазина товаров для дома.
 ## Навыки и инструменты
